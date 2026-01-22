@@ -185,7 +185,7 @@ Este mapa reconstruye su alcance territorial y humano.
             alignment: 'right',
             hidden: false,
             title: 'Fuente Obejuna',
-            image: 'images/Fuenteobejuna_aerea.jpg',
+            image: 'https://www.loscamposdeconcentraciondefranco.es/img/campos/5a.jpg',
             description: 'En ubicación desconocida. Operó, al menos, entre julio de 1938 y marzo de 1939. En su punto álgido acumuló cerca de 2.000 prisioneros.',
             location: {
                 center: [-5.433091, 38.272161],
@@ -288,7 +288,7 @@ Este mapa reconstruye su alcance territorial y humano.
             alignment: 'right',
             hidden: false,
             title: 'Montilla',
-            image: 'images/Montilla_aerea.jpg',
+            image: 'https://www.loscamposdeconcentraciondefranco.es/img/campos/140f.jpg',
             description: 'Situado en los colegios femeninos Rebaño de María y La Aurora. Operó, al menos, entre agosto de 1938 y julio de 1939. Su máxima ocupación osciló entre los 500 y los 1.000 prisioneros.',
             location: {
                 center: [-4.636551, 37.589755],
